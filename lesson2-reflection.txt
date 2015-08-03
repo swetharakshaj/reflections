@@ -8,6 +8,9 @@ the repository? What value do you think it offers?
 
 How can you use staging area to make sure you have one commit per logical change?
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
 Commands:
 
 git diff (diff between working directory and staging area)
