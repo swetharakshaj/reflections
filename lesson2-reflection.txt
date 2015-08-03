@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- When I initialize a repo, a file is created for git metadata to track commits is created
+- This is needed if I want version control on that directory
