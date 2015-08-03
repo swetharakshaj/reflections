@@ -7,3 +7,12 @@ How is the staging area different from the working directory and
 the repository? What value do you think it offers?
 
 How can you use staging area to make sure you have one commit per logical change?
+
+Commands:
+
+git diff (diff between working directory and staging area)
+git diff --staged (difference between staging area and latest commit in repo)
+git diff commit1 commit2 (difference between 2 commits in the repo)
+git branch (view branches)
+git branch name  (created branch with given name)
+git checkout branch-name (will checkout specified branch)
