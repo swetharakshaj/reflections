@@ -17,5 +17,10 @@ git diff (diff between working directory and staging area)
 git diff --staged (difference between staging area and latest commit in repo)
 git diff commit1 commit2 (difference between 2 commits in the repo)
 git branch (view branches)
+git merge branch1 branch2
+git show commitID (shows diff between commitID and it's parent)
+git log --graph --oneline branch-name1 branch -name2
 git branch name  (created branch with given name)
 git checkout branch-name (will checkout specified branch)
+git checkout  -b branch-name
+git branch -d coins
